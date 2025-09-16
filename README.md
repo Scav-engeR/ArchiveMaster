@@ -38,10 +38,10 @@ Whether you’re managing software releases, backup sets, or fragmented download
 - `unrar` (for RAR support on Linux/macOS)
 
 #### On Ubuntu/Debian:
-```bash
+bash
 sudo apt update && sudo apt install unrar python3-pip
 
-On macOS:
+### On macOS:
 
 brew install unrar
 On Windows:
@@ -52,7 +52,7 @@ Install Dependencies
 pip install rarfile
 💡 rarfile uses unrar under the hood — ensure it's in your system PATH.
 
-🖥️ Usage
+### 🖥️ Usage
 Option 1: Graphical Interface (Recommended for most users)
 
 python3 archivemaster.py
