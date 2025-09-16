@@ -1,7 +1,7 @@
 # ArchiveMaster 🗃️  
 ### Unified Multi-Archive Merger for ZIP, RAR, and TAR Files
 
-![ArchiveMaster Screenshot] (<img width="1919" height="824" alt="image" src="https://github.com/user-attachments/assets/b14405b5-7df1-42e9-a306-ab0e9d621d2b" />)
+### [ArchiveMaster Screenshot] <img width="1919" height="824" alt="image" src="https://github.com/user-attachments/assets/b14405b5-7df1-42e9-a306-ab0e9d621d2b" />
 
 ---
 
